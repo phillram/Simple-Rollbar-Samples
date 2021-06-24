@@ -16,3 +16,4 @@ These are to have the value of the respective `Server` or `Client` tokens. These
 - Selecting your project (if you have multiple)
 - Clicking on `Project Access Tokens`
 
+![Picture showing where to click](/Images/Find-Tokens.png)
